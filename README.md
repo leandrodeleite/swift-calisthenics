@@ -1,4 +1,4 @@
-# Swift Calisthenics
+# [Swift] Calisthenics
 
 ---
 
