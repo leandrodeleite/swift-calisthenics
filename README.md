@@ -1,5 +1,7 @@
 # [Swift] Calisthenics
 
+## [The Swift Programming Language (Swift 3)][documentation]
+
 ---
 
 [Swift]: https://swift.org/
