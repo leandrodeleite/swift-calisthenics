@@ -4,17 +4,17 @@
 
 | Welcome to Swift | Language Guide | Language Reference |
 |---|---|---|
-| About Swift                 | | |
-|                             | | |
-| A Swift [Guided Tour]       | | |
-| Simple Values               | | |
-| Control Flow                | | |
-| Functions and Closures      | | |
-| Objects and Classes         | | |
-| Enumerations and Structures | | |
-| Protocols and Extensions    | | |
-| Error Handling              | | |
-| Generics                    | | |
+| About Swift                 | | About the [Language Reference] |
+|                             | |                           |
+| A Swift [Guided Tour]       | | Lexical Structure         |
+| Simple Values               | | Types                     |
+| Control Flow                | | Expressions               |
+| Functions and Closures      | | Statements                |
+| Objects and Classes         | | Declarations              |
+| Enumerations and Structures | | Attributes                |
+| Protocols and Extensions    | | Patterns                  |
+| Error Handling              | | Generic Parameters and Arguments |
+| Generics                    | | Summary of the Grammar    |
 | [Download Playground]       | | |
 |                             | | |
 
@@ -39,3 +39,5 @@
 [Guided Tour]: https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.html
 
 [Download Playground]: https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.playground.zip
+
+[Language Reference]: https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/AboutTheLanguageReference.html
