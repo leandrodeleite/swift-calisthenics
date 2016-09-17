@@ -2,21 +2,37 @@
 
 ## [The Swift Programming Language (Swift 3)][documentation]
 
-| Welcome to Swift | Language Guide | Language Reference |
-|---|---|---|
-| About Swift                 | | About the [Language Reference] |
-|                             | |                           |
-| A Swift [Guided Tour]       | | Lexical Structure         |
-| Simple Values               | | Types                     |
-| Control Flow                | | Expressions               |
-| Functions and Closures      | | Statements                |
-| Objects and Classes         | | Declarations              |
-| Enumerations and Structures | | Attributes                |
-| Protocols and Extensions    | | Patterns                  |
-| Error Handling              | | Generic Parameters and Arguments |
-| Generics                    | | Summary of the Grammar    |
-| [Download Playground]       | | |
-|                             | | |
+| Welcome to Swift            | Language Guide                | Language Reference                |
+|---                          |---                            |---                                |
+| About Swift                 | The Basics                    | About the [Language Reference]    |
+|                             | Basic Operators               |                                   |
+| A Swift [Guided Tour]       | Strings and Characters        | Lexical Structure                 |
+| Simple Values               | Collection Types              | Types                             |
+| Control Flow                | Control Flow                  | Expressions                       |
+| Functions and Closures      | Functions                     | Statements                        |
+| Objects and Classes         | Closures                      | Declarations                      |
+| Enumerations and Structures | Enumerations                  | Attributes                        |
+| Protocols and Extensions    | Classes and Structures        | Patterns                          |
+| Error Handling              | Properties                    | Generic Parameters and Arguments  |
+| Generics                    | Methods                       | Summary of the Grammar            |
+| [Download Playground]       | Subscripts                    | |
+|                             | Inheritance                   | |
+|                             | Initialization                | |
+|                             | Deinitialization              | |
+|                             | Automatic Reference Counting  | |
+|                             | Optional Chaining             | |
+|                             | Error Handling                | |
+|                             | Type Casting                  | |
+|                             | Nested Types                  | |
+|                             | Extensions                    | |
+|                             | Protocols                     | |
+|                             | Generics                      | |
+|                             | Access Control                | |
+|                             | Advanced Operators            | |
+| | | |
+
+
+
 
 | Date | [Revision History] |
 |---|---|
