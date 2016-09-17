@@ -4,7 +4,11 @@
 
 | Welcome to Swift | Language Guide | Language Reference |
 |-|-|-|
+| About Swift           | | |
 | | | |
+| A Swift [Guided Tour] | | |
+
+
 
 | Date | [Revision History] |
 |-|-|
@@ -22,5 +26,6 @@
 
 [documentation]: https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/
 
-[Revision History]:
-https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/RevisionHistory.html
+[Revision History]: https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/RevisionHistory.html
+
+[Guided Tour]: https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.html
