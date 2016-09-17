@@ -5,7 +5,7 @@
 | Welcome to Swift | Language Guide | Language Reference |
 |-|-|-|
 | About Swift                 | | |
-| | | |
+|                             | | |
 | A Swift [Guided Tour]       | | |
 | Simple Values               | | |
 | Control Flow                | | |
@@ -15,6 +15,7 @@
 | Protocols and Extensions    | | |
 | Error Handling              | | |
 | Generics                    | | |
+| [Download Playground]       | | |
 |                             | | |
 
 | Date | [Revision History] |
@@ -36,3 +37,5 @@
 [Revision History]: https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/RevisionHistory.html
 
 [Guided Tour]: https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.html
+
+[Download Playground]: https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.playground.zip
