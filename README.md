@@ -3,7 +3,7 @@
 ## [The Swift Programming Language (Swift 3)][documentation]
 
 | Welcome to Swift | Language Guide | Language Reference |
-|-|-|-|
+|---|---|---|
 | About Swift                 | | |
 |                             | | |
 | A Swift [Guided Tour]       | | |
@@ -19,7 +19,7 @@
 |                             | | |
 
 | Date | [Revision History] |
-|-|-|
+|---|---|
 | 2016-09-13 | Updated for Swift 3.0 |
 | 2016-03-21 | Updated for Swift 2.2 |
 | 2015-10-20 | Updated for Swift 2.1 |
