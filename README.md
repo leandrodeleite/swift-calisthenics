@@ -69,6 +69,7 @@
 |---              |---  |---  |
 | documentation   | [vapor.github.io/documentation/] | [github.com/vapor/documentation/] |
 |---              |---  |---  |
+| playlist        | [vapor.university]  | |
 
 
 ---
@@ -78,3 +79,5 @@
 
 [vapor.codes]: http://vapor.codes
 [qutheory.io]: http://qutheory.io
+
+[vapor.university]: http://vapor.university
