@@ -73,7 +73,9 @@
 | [@logmaestro]   | | |
 
 
+| Alternatives    |     |     |
 |---              |---  |---  |
+| [Zewo].io       |     |     |
 
 ---
 
@@ -94,6 +96,9 @@
 [tanner.xyz]: http://tanner.xyz
 
 [@logmaestro]: https://twitter.com/logmaestro
+
+
+[Zewo]: http://www.zewo.io
 
 ---
 
