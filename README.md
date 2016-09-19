@@ -74,6 +74,8 @@
 |---              |---  |---  |
 | Alternatives:    |     |     |
 | [Zewo].io       | github/[zewo] | [docs.zewo.io] |
+| Kitura          |               |                |
+| Perfect         |               |                |
 
 ---
 
