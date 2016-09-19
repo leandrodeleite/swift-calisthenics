@@ -69,7 +69,7 @@
 |---              |---  |---  |
 | documentation   | [vapor.github.io/documentation/] | [github.com/vapor/documentation/] |
 |---              |---  |---  |
-| playlist        | [vapor.university]  | |
+| playlist        | [vapor.university]  | [youtube] |
 
 ---
 
@@ -81,3 +81,4 @@
 
 [vapor.university]: http://vapor.university
 [@codevapor]: https://twitter.com/codevapor
+[youtube]: https://www.youtube.com/channel/UCkxCv2ZkF4PLTqnQdwCUXKA
