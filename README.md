@@ -75,7 +75,7 @@
 
 | Alternatives    |     |     |
 |---              |---  |---  |
-| [Zewo].io       | github/[zewo] |  |
+| [Zewo].io       | github/[zewo] | [docs.zewo.io] |
 
 ---
 
@@ -99,7 +99,7 @@
 
 [Zewo]: http://www.zewo.io
 [zewo]: https://github.com/zewo/zewo
-
+[docs.zewo.io]: https://docs.zewo.io
 
 ---
 
