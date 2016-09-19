@@ -97,8 +97,8 @@
 
 # IDE
 
-| [Atom]  | github/[atom] |       |
-|---      |---    |---    |
+| [Atom].io     | github/[atom] |       |
+|---            |---            |---    |
 | dependencies  | [packages]    | [language-swift] ,  [swift-debugger]          |
 
 
