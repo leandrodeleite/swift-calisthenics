@@ -100,6 +100,13 @@
 | [Atom]  |       |       |
 |---      |---    |---    |
 
+| Resources     |           |
+|--             |           |
+| [packages]    |           |
+| dependencies  |           |
+
 ---
 
 [Atom]: https://atom.io
+
+[packages]: https://atom.io/packages
