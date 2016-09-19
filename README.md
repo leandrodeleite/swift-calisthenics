@@ -71,10 +71,8 @@
 | playlist        | [vapor.university]                | [youtube]                         |
 | [@tanner0101]   | [github.com/tannernelson]         | [tanner.xyz]                      |
 | [@logmaestro]   | | |
-
-
-| Alternatives    |     |     |
 |---              |---  |---  |
+| Alternatives:    |     |     |
 | [Zewo].io       | github/[zewo] | [docs.zewo.io] |
 
 ---
