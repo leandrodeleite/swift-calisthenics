@@ -100,7 +100,7 @@
 | [Atom].io     | github/[atom] |       |
 |---            |---            |---    |
 | dependencies  | [packages]    | [language-swift] ,  [swift-debugger]          |
-
+| documentation | [flight-manual] |       |
 
 | Resources  |
 |--- |
@@ -118,3 +118,5 @@
 [/how_to_code_in_swift_on_atom/]: https://www.reddit.com/r/learnprogramming/comments/43yvu9/how_to_code_in_swift_on_atom/
 
 [atom]: https://github.com/atom/atom
+
+[flight-manual]: http://flight-manual.atom.io
