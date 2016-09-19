@@ -102,7 +102,7 @@
 
 | Resources     |           |
 |--             |           |
-| [packages]    |           |
+| [packages]    | [language-swift] ,  [swift-debugger]          |
 | dependencies  |           |
 
 ---
@@ -110,3 +110,5 @@
 [Atom]: https://atom.io
 
 [packages]: https://atom.io/packages
+[language-swift]: https://github.com/freebroccolo/atom-language-swift
+[swift-debugger]: https://github.com/aciidb0mb3r/atom-swift-debugger
