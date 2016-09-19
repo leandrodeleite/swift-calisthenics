@@ -101,6 +101,9 @@
 [zewo]: https://github.com/zewo/zewo
 [docs.zewo.io]: https://docs.zewo.io
 
+[Kitura]:
+[github.com/IBM-Swift/Kitura]: https://github.com/IBM-Swift/Kitura
+
 ---
 
 # IDE
