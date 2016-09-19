@@ -69,8 +69,8 @@
 |---              |---  |---  |
 | documentation   | [vapor.github.io/documentation/]  | [github.com/vapor/documentation/] |
 |---              |---  |---  |
-| playlist        | [vapor.university]  | [youtube]   |
-|||
+| playlist        | [vapor.university]                | [youtube]                         |
+| [@tanner0101]   | [github.com/tannernelson]         | [tanner.xyz]                      |
 
 ---
 
@@ -85,3 +85,7 @@
 [vapor.university]: http://vapor.university
 [@codevapor]: https://twitter.com/codevapor
 [youtube]: https://www.youtube.com/channel/UCkxCv2ZkF4PLTqnQdwCUXKA
+
+[@tanner0101]: https://twitter.com/@tanner0101
+[github.com/tannernelson]: https://github.com/tannernelson
+[tanner.xyz]: http://tanner.xyz
