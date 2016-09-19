@@ -65,7 +65,7 @@
 
 # Server Side Swift
 
-| Vapor           |     |     |
+| Vapor           | [vapor.codes] , [qutheory.io]    |     |
 |---              |---  |---  |
 | documentation   | [vapor.github.io/documentation/] | [github.com/vapor/documentation/] |
 |---              |---  |---  |
@@ -75,3 +75,6 @@
 
 [vapor.github.io/documentation/]: https://vapor.github.io/documentation/
 [github.com/vapor/documentation/]: https://github.com/vapor/documentation/
+
+[vapor.codes]: http://vapor.codes
+[qutheory.io]: http://qutheory.io
