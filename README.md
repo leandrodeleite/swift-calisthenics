@@ -97,15 +97,13 @@
 
 # IDE
 
-| [Atom].io     | github/[atom] |       |
-|---            |---            |---    |
-| dependencies  | [packages]    | [language-swift] ,  [swift-debugger]          |
-| documentation | [flight-manual] |       |
+| [Atom].io     | github/[atom] |
+|---            |---            |
+| [packages]    | [language-swift] ,  [swift-debugger]          |
+| documentation | [flight-manual] |
+| resource  | [Hacking Atom to create a Swift IDE that runs on Linux and Mac] |
+|           | reddit[/how_to_code_in_swift_on_atom/]  |
 
-| Resources  |
-|--- |
-| [Hacking Atom to create a Swift IDE that runs on Linux and Mac] |
-| reddit[/how_to_code_in_swift_on_atom/]
 ---
 
 [Atom]: https://atom.io
