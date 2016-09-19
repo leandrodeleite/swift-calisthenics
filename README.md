@@ -75,7 +75,7 @@
 
 | Alternatives    |     |     |
 |---              |---  |---  |
-| [Zewo].io       |     |     |
+| [Zewo].io       | github/[zewo] |  |
 
 ---
 
@@ -97,8 +97,9 @@
 
 [@logmaestro]: https://twitter.com/logmaestro
 
-
 [Zewo]: http://www.zewo.io
+[zewo]: https://github.com/zewo/zewo
+
 
 ---
 
