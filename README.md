@@ -99,11 +99,12 @@
 
 | [Atom]  |       |       |
 |---      |---    |---    |
+| dependencies  | [packages]    | [language-swift] ,  [swift-debugger]          |
 
-| Resources     |           |
-|--             |           |
-| [packages]    | [language-swift] ,  [swift-debugger]          |
-| dependencies  |           |
+
+| Resources  |
+|--- |
+| [Hacking Atom to create a Swift IDE that runs on Linux and Mac] |
 
 ---
 
@@ -112,3 +113,5 @@
 [packages]: https://atom.io/packages
 [language-swift]: https://github.com/freebroccolo/atom-language-swift
 [swift-debugger]: https://github.com/aciidb0mb3r/atom-swift-debugger
+
+[Hacking Atom to create a Swift IDE that runs on Linux and Mac]: https://medium.com/@Aciid/hacking-atom-to-create-a-swift-ide-that-runs-on-linux-and-mac-c7d9520a0fac#.nvmyss5l4
