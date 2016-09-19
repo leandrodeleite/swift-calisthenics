@@ -65,4 +65,13 @@
 
 # Server Side Swift
 
+| Vapor           |     |     |
+|---              |---  |---  |
+| documentation   | [vapor.github.io/documentation/] | [github.com/vapor/documentation/] |
+|---              |---  |---  |
+
+
 ---
+
+[vapor.github.io/documentation/]: https://vapor.github.io/documentation/
+[github.com/vapor/documentation/]: https://github.com/vapor/documentation/
