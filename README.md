@@ -71,6 +71,7 @@
 |---              |---  |---  |
 | playlist        | [vapor.university]                | [youtube]                         |
 | [@tanner0101]   | [github.com/tannernelson]         | [tanner.xyz]                      |
+| [@logmaestro]   | | |
 
 ---
 
@@ -86,6 +87,8 @@
 [@codevapor]: https://twitter.com/codevapor
 [youtube]: https://www.youtube.com/channel/UCkxCv2ZkF4PLTqnQdwCUXKA
 
-[@tanner0101]: https://twitter.com/@tanner0101
 [github.com/tannernelson]: https://github.com/tannernelson
+[@tanner0101]: https://twitter.com/@tanner0101
 [tanner.xyz]: http://tanner.xyz
+
+[@logmaestro]: https://twitter.com/logmaestro
