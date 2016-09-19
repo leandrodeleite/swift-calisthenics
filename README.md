@@ -74,8 +74,8 @@
 |---              |---  |---  |
 | Alternatives:    |     |     |
 | [Zewo].io       | github/[zewo] | [docs.zewo.io] |
-| Kitura          |               |                |
-| Perfect         |               |                |
+| Kitura          | [github.com/IBM-Swift/Kitura]              |                |
+| Perfect         | [github.com/PerfectlySoft/Perfect]         |                |
 
 ---
 
@@ -103,6 +103,9 @@
 
 [Kitura]:
 [github.com/IBM-Swift/Kitura]: https://github.com/IBM-Swift/Kitura
+
+[Perfect]:
+[github.com/PerfectlySoft/Perfect]: https://github.com/PerfectlySoft/Perfect
 
 ---
 
