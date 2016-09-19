@@ -68,10 +68,12 @@
 | [@codevapor]    | [github.com/vapor/]               | [vapor.codes] , [qutheory.io]     |
 |---              |---  |---  |
 | documentation   | [vapor.github.io/documentation/]  | [github.com/vapor/documentation/] |
-|---              |---  |---  |
 | playlist        | [vapor.university]                | [youtube]                         |
 | [@tanner0101]   | [github.com/tannernelson]         | [tanner.xyz]                      |
 | [@logmaestro]   | | |
+
+
+|---              |---  |---  |
 
 ---
 
