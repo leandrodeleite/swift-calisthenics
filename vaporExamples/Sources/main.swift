@@ -8,7 +8,7 @@ drop.get("/hello") { _ in
   return "Hello Vapor"
 }
 
-drop.get("hi", String) { request, name in}
+drop.get("hi", String.self) { request, name in
   return "Hi, \(name)."
 }
 
