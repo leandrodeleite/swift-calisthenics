@@ -1,5 +1,7 @@
 print("Hello, world!")
 
+import Vapor
+
 let drop = Droplet()
 
 drop.get("/hello") { _ in
