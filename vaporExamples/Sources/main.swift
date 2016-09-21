@@ -44,6 +44,6 @@ Route.get("hello") { _ in
   return ["Hello" : "World"]
 }
 
-let server = Server()
+let server = Serve()
 server.run(port: 8000)
 
