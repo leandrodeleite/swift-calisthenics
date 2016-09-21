@@ -1,3 +1,4 @@
+/*
 print("Hello, world!")
 
 import Vapor
@@ -19,6 +20,7 @@ drop.get("hey") { req in
 drop.get("users", Int.self) { request, userId in
   return "You requested User #\(userId)"
 }
+*/
 /*
 //import HTTP
 
@@ -31,5 +33,17 @@ drop.get("/") { request in
             ~~~~~~~~~^
 <unknown>:0: error: build had 1 command failures
 */
+//drop.run()
 
-drop.run()
+import Foundation
+import Vapor
+
+print("SwiftServerIO -- starting")
+
+Route.get("hello") { _ in
+  return ["Hello" : "World"]
+}
+
+let server = Server()
+server.run(port: 8000)
+
