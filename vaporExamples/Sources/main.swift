@@ -43,7 +43,7 @@ print("SwiftServerIO -- starting")
 let drop = Droplet()
 
 drop.get("hello") { _ in
-  return ["Hello" : "World"]
+  return JSON(["Hello" : "World"])
 }
 
 drop.run()
