@@ -40,10 +40,11 @@ import Vapor
 
 print("SwiftServerIO -- starting")
 
-Route.get("hello") { _ in
+let drop = Droplet()
+
+drop.get("hello") { _ in
   return ["Hello" : "World"]
 }
 
-let server = Serve()
-server.run(port: 8000)
+drop.run()
 
