@@ -46,5 +46,10 @@ drop.get("hello") { _ in
   return JSON(["Hello" : "World"])
 }
 
-drop.run()
+drop.get("anything", "*") { request in
+  return "Matches anything after /anything"
+} // Fallback /anything ../foo/bar... 
 
+
+
+drop.run()
