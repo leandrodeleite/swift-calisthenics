@@ -51,7 +51,8 @@ drop.get("anything", "*") { request in
 } // Fallback /anything ../foo/bar...
 
 drop.get("vapor") { request in
-  return Response(redirect: "http://vapor.codes")
+//return Response(redirect: "http://vapor.codes")
+//return URLResponse(redirect: "http://vapor.codes")
 }
 
 drop.run()
