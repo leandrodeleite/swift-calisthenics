@@ -20,7 +20,7 @@ drop.get("hey") { req in
 drop.get("users", Int.self) { request, userId in
   return "You requested User #\(userId)"
 }
-*/
+
 /*
 //import HTTP
 
