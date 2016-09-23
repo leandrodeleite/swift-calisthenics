@@ -1,4 +1,4 @@
-/*
+
 print("Hello, world!")
 
 import Vapor
@@ -36,11 +36,11 @@ drop.get("/") { request in
 //drop.run()
 
 import Foundation
-import Vapor
+//import Vapor
 
 print("SwiftServerIO -- starting")
 
-let drop = Droplet()
+//let drop = Droplet()
 
 drop.get("hello") { _ in
   return JSON(["Hello" : "World"])
