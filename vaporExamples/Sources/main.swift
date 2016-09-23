@@ -49,10 +49,10 @@ drop.get("hello") { _ in
 drop.get("anything", "*") { request in
   return "Matches anything after /anything"
 } // Fallback /anything ../foo/bar...
-
+/*
 drop.get("vapor") { request in
 //return Response(redirect: "http://vapor.codes")
 //return URLResponse(redirect: "http://vapor.codes")
 }
-
+*/
 drop.run()
