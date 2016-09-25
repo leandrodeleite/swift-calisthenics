@@ -155,7 +155,7 @@
 
 ---
 
-# Useful
+# Useful [#swiftlang]
 
 | link  | functionality |
 | ---   | --- |
@@ -165,3 +165,5 @@
 ---
 
 [asciiwwdc]: http://asciiwwdc.com
+[@swiftgit]: htts://twitter.com/swiftgit
+[#swiftlang]: https://twitter.com/hashtag/swiftlang
