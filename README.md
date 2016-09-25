@@ -45,11 +45,11 @@
 | 2014-08-18 | New document that describes Swift 1.0 |
 
 
-| @SwiftLang  | [swift.org] | [developer.apple.com/swift/] |
+| @SwiftLang  | [swift.org] | [developer.apple.com/swift] - [/resources] |
 | ---         | ---         | ---                          |
 |             | [blog]     | [/blog]                       |
 |             | [playground-support]  | [/playgrounds]     |
-|             |             | [/resources]                 |
+|             |             |                  |
 
 ---
 
