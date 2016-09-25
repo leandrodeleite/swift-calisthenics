@@ -92,7 +92,7 @@
 |---              |---  |---  |
 | Alternatives:    |     |     |
 | [Zewo].io       | github/[zewo] | [docs.zewo.io] |
-| [Kitura]        | [github.com/IBM-Swift/Kitura]              |                |
+| [Kitura]        |  [github.com/IBM-Swift/Kitura]              | [developer.ibm.com/swift] |
 | [Perfect]       | [github.com/PerfectlySoft/Perfect]         |                |
 
 ---
@@ -121,6 +121,7 @@
 
 [Kitura]: https://developer.ibm.com/swift/kitura
 [github.com/IBM-Swift/Kitura]: https://github.com/IBM-Swift/Kitura
+[developer.ibm.com/swift]: https://developer.ibm.com/swift/
 
 [Perfect]: http://perfect.org
 [github.com/PerfectlySoft/Perfect]: https://github.com/PerfectlySoft/Perfect
@@ -157,7 +158,7 @@
 
 | [@SwiftLang] | [#swiftlang] |
 | ---   | --- |
- @Apple | Open Source           |
+| @Apple | Open Source           |
 | [developer.apple.com/swift] | [swift.org]   |
 | [topic=Swift]       | [github/apple/swift]  |
 | [/resources]        | |
