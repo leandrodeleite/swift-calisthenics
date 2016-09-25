@@ -46,13 +46,6 @@
 
 
 
-| [@SwiftLang] @Apple | Open Source           |
-| --- | --- |
-| [developer.apple.com/swift] | [swift.org]   |
-| [topic=Swift]       | [github/apple/swift]  |
-| [/resources]        | |
-| [/blog]             | [blog]                |
-| [/playgrounds]      | [playground-support]  |
 
 ---
 
@@ -162,8 +155,16 @@
 
 # Useful [#swiftlang]
 
-| link  | functionality |
+| [@SwiftLang] | [#swiftlang] |
 | ---   | --- |
+ @Apple | Open Source           |
+| [developer.apple.com/swift] | [swift.org]   |
+| [topic=Swift]       | [github/apple/swift]  |
+| [/resources]        | |
+| [/blog]             | [blog]                |
+| [/playgrounds]      | [playground-support]  |
+| --- | --- |
+| link  | functionality |
 | [asciiwwdc] | Searchable full-text transcripts of WWDC sessions |
 | [#swiftlang] | Twitter hashtag search
 | [@swiftgit] | Swift Trends - Discover trending Swift libraries on Github. Just 100+ stars. |
