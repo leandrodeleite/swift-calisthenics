@@ -169,7 +169,7 @@
 ---
 
 [asciiwwdc]: http://asciiwwdc.com
-[@swiftgit]: htts://twitter.com/swiftgit
+[@swiftgit]: https://twitter.com/swiftgit
 [#swiftlang]: https://twitter.com/hashtag/swiftlang
 [@swiftlybrief]: https://twitter.com/swiftlybrief
 [@SwiftDevFeed]: https://twitter.com/SwiftDevFeed
