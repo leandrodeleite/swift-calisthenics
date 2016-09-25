@@ -46,18 +46,23 @@
 
 
 | @SwiftLang  | [swift.org] | [developer.apple.com/swift/] |
-| ---         | ---         | ---                         |
-|             | [/blog]     | [blog]
+| ---         | ---         | ---                          |
+|             | [blog]     | [/blog]                       |
+|             | [playground-support]  | [/playgrounds]     |
+|             |             | [/resources]                 |
+
 ---
 
 [@SwiftLang]: https://twitter.com/SwiftLang
 
 [swift.org]: https://swift.org/
-[/blog]: https://swift.org/blog/
+[blog]: https://swift.org/blog/
+[playground-support]: https://swift.org/playground-support/
 
 [developer.apple.com/swift]: https://developer.apple.com/swift/
-[blog]: https://developer.apple.com/swift/blog/
-
+[/blog]: https://developer.apple.com/swift/blog/
+[/playgrounds]: https://developer.apple.com/swift/playgrounds/
+[/resources]: https://developer.apple.com/swift/resources/
 
 [Swift]: https://swift.org/
 
