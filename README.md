@@ -49,7 +49,7 @@
 | [@SwiftLang] @Apple | Open Source           |
 | --- | --- |
 | [developer.apple.com/swift] | [swift.org]   |
-| [topic=Swift]       | |
+| [topic=Swift]       | [github/apple/swift]  |
 | [/resources]        | |
 | [/blog]             | [blog]                |
 | [/playgrounds]      | [playground-support]  |
