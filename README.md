@@ -44,7 +44,15 @@
 | 2014-10-16 | Updated for Swift 1.1 |
 | 2014-08-18 | New document that describes Swift 1.0 |
 
+
+| @SwiftLang  |
+| ---         |
+
 ---
+
+[]@SwiftLang]: https://twitter.com/SwiftLang
+
+
 
 [Swift]: https://swift.org/
 
@@ -135,7 +143,7 @@
 
 ---
 
-## Useful
+# Useful
 
 | link  | functionality |
 | ---   | --- |
