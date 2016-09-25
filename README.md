@@ -139,3 +139,8 @@
 
 | link  | functionality |
 | ---   | --- |
+| [asciiwwdc] | Searchable full-text transcripts of WWDC sessions |
+
+---
+
+[asciiwwdc]: http://asciiwwdc.com
