@@ -49,6 +49,7 @@
 | [@SwiftLang] @Apple | Open Source           |
 | --- | --- |
 | [developer.apple.com/swift] | [swift.org]   |
+| [topic=Swift]       | |
 | [/resources]        | |
 | [/blog]             | [blog]                |
 | [/playgrounds]      | [playground-support]  |
@@ -65,6 +66,10 @@
 [/blog]: https://developer.apple.com/swift/blog/
 [/playgrounds]: https://developer.apple.com/swift/playgrounds/
 [/resources]: https://developer.apple.com/swift/resources/
+[topic=Swift]: https://developer.apple.com/library/prerelease/content/navigation/#section=Topics&topic=Swift
+
+[github/apple/swift]: https://github.com/apple/swift
+
 
 [Swift]: https://swift.org/
 
