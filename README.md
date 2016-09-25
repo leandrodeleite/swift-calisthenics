@@ -160,6 +160,7 @@
 | link  | functionality |
 | ---   | --- |
 | [asciiwwdc] | Searchable full-text transcripts of WWDC sessions |
+| [@swiftgit] | Swift Trends - Discover trending Swift libraries on Github. Just 100+ stars. |
 
 ---
 
