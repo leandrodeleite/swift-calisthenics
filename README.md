@@ -163,6 +163,8 @@
 | [@swiftgit] | Swift Trends - Discover trending Swift libraries on Github. Just 100+ stars. |
 | [@swiftlybrief] | A community-driven weekly newsletter about [@SwiftLang] and [swift.org]. Published every Thursday. |
 | [@SwiftDevFeed] | Swift Reddit Feed |
+| [github/swift-algorithm-club] | ... find implementations of popular algorithms and data structures in ... Swift, with detailed explanations of how they work. |
+| | |
 
 ---
 
@@ -171,3 +173,4 @@
 [#swiftlang]: https://twitter.com/hashtag/swiftlang
 [@swiftlybrief]: https://twitter.com/swiftlybrief
 [@SwiftDevFeed]: https://twitter.com/SwiftDevFeed
+[github/swift-algorithm-club]: https://github.com/raywenderlich/swift-algorithm-club
