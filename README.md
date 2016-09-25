@@ -162,6 +162,7 @@
 | [asciiwwdc] | Searchable full-text transcripts of WWDC sessions |
 | [@swiftgit] | Swift Trends - Discover trending Swift libraries on Github. Just 100+ stars. |
 | [@swiftlybrief] | A community-driven weekly newsletter about [@SwiftLang] and [swift.org]. Published every Thursday. |
+| [@SwiftDevFeed] | Swift Reddit Feed |
 
 ---
 
@@ -169,3 +170,4 @@
 [@swiftgit]: htts://twitter.com/swiftgit
 [#swiftlang]: https://twitter.com/hashtag/swiftlang
 [@swiftlybrief]: https://twitter.com/swiftlybrief
+[@SwiftDevFeed]: https://twitter.com/SwiftDevFeed
