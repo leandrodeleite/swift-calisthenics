@@ -45,13 +45,14 @@
 | 2014-08-18 | New document that describes Swift 1.0 |
 
 
-| @SwiftLang  |
-| ---         |
+| @SwiftLang  | [swift.org] |
+| ---         | ---         |
 
 ---
 
-[]@SwiftLang]: https://twitter.com/SwiftLang
+[@SwiftLang]: https://twitter.com/SwiftLang
 
+[swift.org]: https://swift.org/
 
 
 [Swift]: https://swift.org/
