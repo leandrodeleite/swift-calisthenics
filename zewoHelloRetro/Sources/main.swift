@@ -1,9 +1,9 @@
 print("Hello, world!")
 
 import HTTPServer
-import Router
+//import Router
 
-let app = Router { route in
+let app = BasicRouter { route in
   route.get("/hello") { request in
     return Response(body: "Hello, Zewo!")
   }
