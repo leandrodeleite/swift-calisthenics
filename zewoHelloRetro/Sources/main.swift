@@ -5,13 +5,16 @@ import HTTPServer
 
 let app = BasicRouter { route in
   route.get("/hello") { request in
-    return Response(body: "Hello, Zewo!")
+    return Response(body: "Hello, Zewo!!")
   }
   route.get("/") { request in
-    return Response(body: "Zewo")
+    return Response(body: "Zewo.")
   }
 }
 
 //try Server(app).start()
+try Server(port:8080, responder: app).start()
+/*
 let server = try Server(port:8080, responder: app)
 try server.start()
+*/
