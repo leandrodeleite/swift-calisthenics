@@ -12,4 +12,6 @@ let app = BasicRouter { route in
   }
 }
 
-try Server(app).start()
+//try Server(app).start()
+let server = try Server(port:8080, responder: app)
+try server.start()
