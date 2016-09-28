@@ -178,10 +178,6 @@
 | [swift-style-guide] | RayWenderlich Swift Style Guide, ...centered on readability for print and the web.|
 | | |
 
-| Resources | Language Agnostic |
-|--- | --- |
-
-
 ---
 
 [asciiwwdc]: http://asciiwwdc.com
@@ -198,3 +194,13 @@
 [@LeetCode]: https://twitter.com/LeetCode
 [LeetCode_Swift]: https://github.com/soapyigu/LeetCode_Swift
 [swift-style-guide]: https://github.com/raywenderlich/swift-style-guide
+
+---
+
+| Link | Language Agnostic Resources |
+|--- | --- |
+| [guides.github.com] | |
+
+---
+
+[guides.github.com]: https://guides.github.com/
