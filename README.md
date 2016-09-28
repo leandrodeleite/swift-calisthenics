@@ -175,6 +175,7 @@
 | [@SwiftDevFeed] | Swift Reddit Feed |
 | [github/swift-algorithm-club] | ... find implementations of popular algorithms and data structures in ... Swift, with detailed explanations of how they work. |
 | [LeetCode_Swift] | Solutions coded by Swift to <https://leetcode.com>  |
+| [swift-style-guide] | RayWenderlich Swift Style Guide, ...centered on readability for print and the web.|
 | | |
 
 ---
@@ -191,3 +192,4 @@
 [Glibc]: https://www.gnu.org/software/libc/
 
 [LeetCode_Swift]: https://github.com/soapyigu/LeetCode_Swift
+[swift-style-guide]: https://github.com/raywenderlich/swift-style-guide
