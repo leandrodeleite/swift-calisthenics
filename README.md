@@ -178,6 +178,10 @@
 | [swift-style-guide] | RayWenderlich Swift Style Guide, ...centered on readability for print and the web.|
 | | |
 
+| Resources | Language Agnostic |
+|--- | --- |
+
+
 ---
 
 [asciiwwdc]: http://asciiwwdc.com
