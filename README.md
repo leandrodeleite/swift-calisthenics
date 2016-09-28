@@ -164,9 +164,7 @@
 | [/resources]        | [getting-started]     |
 | [/blog]             | [blog]                |
 | [/playgrounds]      | [playground-support]  |
-| --- | --- |
-| import Glibc  | https://www.gnu.org/software/libc/manual/ |
-| import Darwin | |
+| import Darwin |  import [Glibc] |
 | --- | --- |
 | [developer.ibm.com/swift] | |
 | link  | functionality |
@@ -188,3 +186,5 @@
 [github/swift-algorithm-club]: https://github.com/raywenderlich/swift-algorithm-club
 
 [getting-started]: https://swift.org/getting-started/
+
+[Glibc]: https://www.gnu.org/software/libc/
