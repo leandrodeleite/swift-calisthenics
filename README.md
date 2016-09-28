@@ -165,6 +165,7 @@
 | [/blog]             | [blog]                |
 | [/playgrounds]      | [playground-support]  |
 | --- | --- |
+| import Glibc  | https://www.gnu.org/software/libc/manual/ |
 | import Darwin | |
 | --- | --- |
 | [developer.ibm.com/swift] | |
