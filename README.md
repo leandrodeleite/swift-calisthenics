@@ -161,11 +161,11 @@
 | @Apple | Open Source           |
 | [developer.apple.com/swift] | [swift.org]   |
 | [topic=Swift]       | [github/apple/swift]  |
-| [/resources]        | |
+| [/resources]        | [getting-started]     |
 | [/blog]             | [blog]                |
 | [/playgrounds]      | [playground-support]  |
 | --- | --- |
-| [developer.ibm.com/swift] | | 
+| [developer.ibm.com/swift] | |
 | link  | functionality |
 | [asciiwwdc] | Searchable full-text transcripts of WWDC sessions |
 | [#swiftlang] | Twitter hashtag search
@@ -183,3 +183,5 @@
 [@swiftlybrief]: https://twitter.com/swiftlybrief
 [@SwiftDevFeed]: https://twitter.com/SwiftDevFeed
 [github/swift-algorithm-club]: https://github.com/raywenderlich/swift-algorithm-club
+
+[getting-started]: https://swift.org/getting-started/
