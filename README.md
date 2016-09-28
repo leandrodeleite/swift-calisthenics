@@ -174,6 +174,7 @@
 | [@swiftlybrief] | A community-driven weekly newsletter about [@SwiftLang] and [swift.org]. Published every Thursday. |
 | [@SwiftDevFeed] | Swift Reddit Feed |
 | [github/swift-algorithm-club] | ... find implementations of popular algorithms and data structures in ... Swift, with detailed explanations of how they work. |
+| [LeetCode_Swift] | Solutions coded by Swift to <https://leetcode.com>  |
 | | |
 
 ---
@@ -188,3 +189,5 @@
 [getting-started]: https://swift.org/getting-started/
 
 [Glibc]: https://www.gnu.org/software/libc/
+
+[LeetCode_Swift]: https://github.com/soapyigu/LeetCode_Swift
