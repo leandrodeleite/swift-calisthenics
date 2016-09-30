@@ -136,6 +136,7 @@
 | documentation | [flight-manual] |
 | resource  | [Hacking Atom to create a Swift IDE that runs on Linux and Mac] |
 |           | reddit[/how_to_code_in_swift_on_atom/]  |
+|           | [build-podcast/atom] |
 
 ---
 
@@ -151,6 +152,8 @@
 [atom]: https://github.com/atom/atom
 
 [flight-manual]: http://flight-manual.atom.io
+
+[build-podcast/atom]: https://build-podcast.com/atom/
 
 ---
 
