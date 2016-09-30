@@ -207,9 +207,12 @@
 |--- | --- |
 | [guides.github.com] | |
 | [the-software-developers-library] | The Software Developer's Library ...books for people who love code. Arranged by topic, loosely in learning order. |
+| [martinfowler/OneLanguage] | ... we are entering a period of Polyglot Programming |
 
 ---
 
 [guides.github.com]: https://guides.github.com/
 
 [the-software-developers-library]: https://github.com/ericelliot/the-software-developers-library
+
+[martinfowler/OneLanguage]: http://martinfowler.com/bliki/OneLanguage.html
