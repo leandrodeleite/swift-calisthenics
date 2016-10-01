@@ -216,3 +216,8 @@
 [the-software-developers-library]: https://github.com/ericelliot/the-software-developers-library
 
 [martinfowler/OneLanguage]: http://martinfowler.com/bliki/OneLanguage.html
+
+---
+
+# Language Guide
+In depth
