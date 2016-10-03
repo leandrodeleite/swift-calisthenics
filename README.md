@@ -222,9 +222,9 @@
 # Language Guide
 In depth sequence/track
 
-| | |
-| --- | --- |
-| | |
+| | | |
+| --- | --- | --- |
+| | | |
 |                         | The Basics              | 01 |
 | Constants and Variables | |
 | Comments                | |
@@ -240,7 +240,7 @@ In depth sequence/track
 | Optionals               | |
 | Error Handling          | |
 | Assertions              | |
-| | |
+| | | |
 |                         | Basic Operators         | 02 |
 |                         | Strings and Characters  | 03 |
 |                         | Collection Types        | 04 |
