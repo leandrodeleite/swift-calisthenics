@@ -225,7 +225,7 @@ In depth
 | | |
 | --- | --- |
 | | |
-|                         | The Basics |
+|                         | The Basics              | 01 |
 | Constants and Variables | |
 | Comments                | |
 | Semicolons              | |
@@ -241,27 +241,27 @@ In depth
 | Error Handling          | |
 | Assertions              | |
 | | |
-|                         | Basic Operators |
-|                         | Strings and Characters |
-|                         | Collection Types |
-|                         | Control Flow |
-|                         | Functions |
-|                         | Closures |
-|                         | Enumerations |
-|                         | Classes and Structures |
-|                         | Properties |
-|                         | Methods |
-|                         | Subscripts |
-|                         | Inheritance |
-|                         | Initialization |
-|                         | Deinitialization |
-|                         | Automatic Reference Counting |
-|                         | Optional Chaining |
-|                         | Error Handling |
-|                         | Type Casting |
-|                         | Nested Types |
-|                         | Extensions |
-|                         | Protocols |
-|                         | Generics |
-|                         | Access Control |
-|                         | Advanced Operators |
+|                         | Basic Operators         | 02 |
+|                         | Strings and Characters  | 03 |
+|                         | Collection Types        | 04 |
+|                         | Control Flow            | 05 |
+|                         | Functions               | 06 |
+|                         | Closures                | 07 |
+|                         | Enumerations            | 08 |
+|                         | Classes and Structures  | 09 |
+|                         | Properties              | 10 |
+|                         | Methods                 | 11 |
+|                         | Subscripts              | 12 |
+|                         | Inheritance             | 13 |
+|                         | Initialization          | 14 |
+|                         | Deinitialization        | 15 |
+|                         | Automatic Reference Counting | 16 |
+|                         | Optional Chaining       | 17 |
+|                         | Error Handling          | 18 |
+|                         | Type Casting            | 19 |
+|                         | Nested Types            | 20 |
+|                         | Extensions              | 21 |
+|                         | Protocols               | 22 |
+|                         | Generics                | 23 |
+|                         | Access Control          | 24 |
+|                         | Advanced Operators      | 25 |
