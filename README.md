@@ -220,7 +220,7 @@
 ---
 
 # Language Guide
-In depth sequence/track
+In depth sequence/track for [Swift 3][documentation]
 
 | | | |
 | --- | --- | --- |
