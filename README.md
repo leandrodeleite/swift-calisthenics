@@ -225,7 +225,7 @@ In depth sequence/track for [Swift 3][documentation]
 | | | |
 | --- | --- | --- |
 | | | |
-|                         | The Basics              | 01 |
+|                         | [The Basics][01]        | [01] |
 | Constants and Variables | |
 | Comments                | |
 | Semicolons              | |
@@ -242,6 +242,16 @@ In depth sequence/track for [Swift 3][documentation]
 | Assertions              | |
 | | | |
 |                         | Basic Operators         | 02 |
+| Terminology             | |
+| Assignment Operator     | |
+| Arithmetic Operators    | |
+| Compound Assignment Operators | |
+| Comparison Operator     | |
+| Ternary Conditional Operator  | |
+| Nil-Coalescing Operator | |
+| Range Operators         | |
+| Logical Operators       | |
+| | | |
 |                         | Strings and Characters  | 03 |
 |                         | Collection Types        | 04 |
 |                         | Control Flow            | 05 |
@@ -265,3 +275,6 @@ In depth sequence/track for [Swift 3][documentation]
 |                         | Generics                | 23 |
 |                         | Access Control          | 24 |
 |                         | Advanced Operators      | 25 |
+
+
+[01]: https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html
